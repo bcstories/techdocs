@@ -1,3 +1,5 @@
+# **Note** techdocs has moved to the gitlab
+
 # techdocs
 Technical documentation for the project. Only how-to's & resources go here, not assets.
 
